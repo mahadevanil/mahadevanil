@@ -49,7 +49,10 @@
 - 👉 Leading [Flutter India][]
 - 💻 The tech I'm interested in is Flutter/ML/AR/NestJs etc.
 - ✍ Technical writer at [Medium][medium]
-- 📱 First Live app on Play Store [PointMax]
+- 📱 First Live app on Play Store <a href="https://play.google.com/store/apps/details?id=com.mahadev1997.pointmax">
+    [PointMax]
+</a>
+- []
 - ✨ I'm learning Flutter, Nest JS, etc.
 - 📄 Live [Portfolio][profile]
 - 🎨 [Dribbble][dribbble] profile
