@@ -10,11 +10,11 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="">
+<a href="https://www.linkedin.com/in/mahadev-k-anil-328baa224/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="">
+<a href="https://medium.com/@rhythmhead97">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-<a href="">
+<a href="https://stackoverflow.com/users/22573471/mahadev-anil">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
 </div>
@@ -39,7 +39,7 @@
 </div> -->
 
 
-### A Student, Developer & Writer
+### Flutter Developer
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
