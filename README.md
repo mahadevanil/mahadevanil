@@ -1,4 +1,4 @@
-### Hey there, I'm  Mahadev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
+### Hey there, I'm  Mahadev K Anil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 
 <div align="center">
 <p align="center">Let's connect!</p>
@@ -46,7 +46,7 @@
 #### Talking about my personal stuff:
 
 
-- 👉 Leading [Flutter India][]
+- 👉 Leading [Flutter India]
 - 💻 The tech I'm interested in is Flutter/NestJs etc.
 - ✍ Technical writer at [Medium][medium]
 - 📱 First Live app on Play Store  <a href = "https://play.google.com/store/apps/details?id=com.mahadev1997.pointmax" >[PointMax]</a>
@@ -78,6 +78,7 @@
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=Figma&logoColor=white" />
+<img src="[https://img.shields.io/badge/NestJs-1E1E1E?style=for-the-badge&logo=NestJs&logoColor=red" />
 
 </div>
 
