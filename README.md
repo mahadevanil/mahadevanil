@@ -1,4 +1,4 @@
-### Hey there, I'm  Mahadev K Anil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
+### Hey there, I'm  Mahadev K Anil
 
 <div align="center">
 <p align="center">Let's connect!</p>
@@ -46,15 +46,15 @@
 #### Talking about my personal stuff:
 
 
-- 👉 Leading [Flutter India]
-- 💻 The tech I'm interested in is Flutter/NestJs etc.
-- ✍ Technical writer at [Medium][medium]
-- 📱 First Live app on Play Store  <a href = "https://play.google.com/store/apps/details?id=com.mahadev1997.pointmax" >[PointMax]</a>
-- ✨ I'm learning Flutter, Nest JS, etc.
-- 📄 Live [Portfolio][profile]
-- 🎨 [Dribbble][dribbble] profile
+-  Leading [Flutter India]
+-  The tech I'm interested in is Flutter/NestJs etc.
+-  Technical writer at [Medium][medium]
+-  First Live app on Play Store  <a href = "https://play.google.com/store/apps/details?id=com.mahadev1997.pointmax" >[PointMax]</a>
+-  I'm learning Flutter, Nest JS, etc.
+-  Live [Portfolio][profile]
+-  [Dribbble][dribbble] profile
 
-#### ✍ Medium Blog Posts
+####  Medium Blog Posts
 
 
 
@@ -84,7 +84,7 @@
 
 <br>
 
-<summary>📝 My GitHub Stats</summary>
+<summary> My GitHub Stats</summary>
 <br>
 <!-- [![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=mhmzdev&theme=gotham)](https://github.com/mhmzdev/github-readme-stats) -->
 
